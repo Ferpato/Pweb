@@ -6,3 +6,4 @@ COMIDA
 Ramen
 Hamburguesas
 Tacos al pastor
+Pizza
